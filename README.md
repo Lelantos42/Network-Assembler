@@ -6,6 +6,8 @@ Network Assembler allows you to make simple keras neural networks with simple GU
 
 ```bash
 !git clone https://github.com/kir486680/Network-Assembler.git
+cd Network-Assembler
+npm install
 npm start
 ```
 
